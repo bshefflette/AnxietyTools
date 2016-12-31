@@ -1,0 +1,20 @@
+{
+  "name": "anxiety",
+  "version": "0.0.1",
+  "description": "Anxiety Tools",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshefflette/AnxietyTools.git"
+  },
+  "author": "Brad Shefflette",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bshefflette/AnxietyTools/issues"
+  },
+  "homepage": "https://github.com/bshefflette/AnxietyTools#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8"
+  }
+}
